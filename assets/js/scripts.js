@@ -9,8 +9,8 @@ const propiedadesVenta = [
         src: 'assets/img/casita.jpg',
         descripcion: "Una hermosa casa con jardín amplio.",
         ubicacion: "Santiago",
-        habitaciones: 4,
-        costo: 200000000,
+        habitaciones: 6,
+        costo: 600000000,
         smoke: false,
         pets: true
     },
@@ -20,7 +20,7 @@ const propiedadesVenta = [
         descripcion: "Departamento con diseño moderno.",
         ubicacion: "Providencia",
         habitaciones: 2,
-        costo: 150000000,
+        costo: 2000000000,
         smoke: true,
         pets: false
     }
@@ -28,22 +28,22 @@ const propiedadesVenta = [
 
 const propiedadesAlquiler = [
     {
-        nombre: "Departamento Céntrico",
+        nombre: "Departamento Centro de Santiago",
         src: "assets/img/centro.jpg",
         descripcion: "Ideal para estudiantes y profesionales.",
-        ubicacion: "Santiago Centro",
+        ubicacion: "Agustinas Santiago",
         habitaciones: 2,
-        costo: 500000,
+        costo: 330000,
         smoke: false,
         pets: true
     },
     {
-        nombre: "Casa en la Playa",
+        nombre: "Casa a pasos del mar",
         src: "assets/img/playita1.jpg",
-        descripcion: "Casa a pasos de la playa.",
-        ubicacion: "La Serena",
-        habitaciones: 3,
-        costo: 750000,
+        descripcion: "Casa veraniega.",
+        ubicacion: "Valparaiso",
+        habitaciones: 4,
+        costo: 800000,
         smoke: true,
         pets: false
     }
