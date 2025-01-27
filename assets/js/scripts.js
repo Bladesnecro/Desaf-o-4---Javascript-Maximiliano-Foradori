@@ -7,7 +7,7 @@ const propiedadesVenta = [
     {
         nombre: "Casa Familiar",
         src: 'assets/img/casita.jpg',
-        descripcion: "Una hermosa casa con jardín amplio.",
+        descripcion: "Ideal para los recuerdos familiares.",
         ubicacion: "Santiago",
         habitaciones: 6,
         costo: 600000000,
@@ -30,7 +30,7 @@ const propiedadesAlquiler = [
     {
         nombre: "Departamento Centro de Santiago",
         src: "assets/img/centro.jpg",
-        descripcion: "Ideal para estudiantes y profesionales.",
+        descripcion: "Ideal para la persona soltera con gustos por el Centro de Santiago.",
         ubicacion: "Agustinas Santiago",
         habitaciones: 2,
         costo: 330000,
