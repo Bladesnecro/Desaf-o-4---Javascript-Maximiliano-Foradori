@@ -17,10 +17,10 @@ const propiedadesVenta = [
     {
         nombre: "Departamento Moderno",
         src: "assets/img/moderno1.jpg",
-        descripcion: "Departamento con diseño moderno.",
-        ubicacion: "Providencia",
+        descripcion: "Departamento Contemporáneo.",
+        ubicacion: "Manuel Montt",
         habitaciones: 2,
-        costo: 2000000000,
+        costo: 800000,
         smoke: true,
         pets: false
     }
